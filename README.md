@@ -1,7 +1,7 @@
 # theCalculator
 thecalculator————一款简单的计算器。
 ## Feature (功能)
-可以进行简单的运算，加、减、乘、除以及开方。
+可以进行简单的运算————加、减、乘、除以及开方。
 ## Third-party libraries used (第三方库使用)
 ```
     implementation 'androidx.appcompat:appcompat:1.1.0'
