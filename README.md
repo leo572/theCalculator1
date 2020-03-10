@@ -16,4 +16,8 @@ thecalculator————一款简单的计算器。
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
 ```
 ## Screenshot (截图)
-![截图](https://github.com/leo572/theCalculator1/blob/master/Screenshot/_CWG%25~E_%7DPEV0AJ%40OH9W%25KU.png)
+![截图](https://github.com/leo572/theCalculator1/blob/master/Screenshot/imge1.png)
+
+***
+
+![截图](https://github.com/leo572/theCalculator1/blob/master/Screenshot/imge2.png)
